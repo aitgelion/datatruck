@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "DataTruck": {
+      "commandName": "Project",
+      "commandLineArgs": "--connectionStringSample \"sqlserver\"",
+      "environmentVariables": {
+        "SqlFilesPath": "../SqlFiles",
+        "DOTNET_ENVIRONMENT": "Development",
+        "FromEnv": "DEV",
+        "ExtraOptionsFilePath": "conf.json"
+      },
+      "dotnetRunMessages": "true"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

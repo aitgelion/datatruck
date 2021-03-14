@@ -1,0 +1,1 @@
+INSERT INTO employees (fullname) VALUES ('Paco Jones');

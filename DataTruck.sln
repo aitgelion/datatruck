@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTruck", "DataTruck\DataTruck.csproj", "{1C5D1D75-9FB2-4A3A-8714-F5DDFA0C5209}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTruck.Test", "DataTruck.Test\DataTruck.Test.csproj", "{E9693404-7B88-491B-B3A0-8470FB14EBE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTruck.Core", "DataTruck.Core\DataTruck.Core.csproj", "{32B02A84-8F46-4DCB-AF9A-492B918928B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTruck.Data", "DataTruck.Data\DataTruck.Data.csproj", "{AD22C49D-C3F0-4377-8A12-17F618A0D858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTruck.Data.Migrations.SqlServer", "DataTruck.Data.Migrations.SqlServer\DataTruck.Data.Migrations.SqlServer.csproj", "{9298AAE0-22AA-49FE-92AD-8DF88D7E901A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTruck.Data.Migrations.Oracle", "DataTruck.Data.Migrations.Oracle\DataTruck.Data.Migrations.Oracle.csproj", "{ABAC598D-5599-4668-9ABC-B734878723E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5D1D75-9FB2-4A3A-8714-F5DDFA0C5209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5D1D75-9FB2-4A3A-8714-F5DDFA0C5209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5D1D75-9FB2-4A3A-8714-F5DDFA0C5209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5D1D75-9FB2-4A3A-8714-F5DDFA0C5209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9693404-7B88-491B-B3A0-8470FB14EBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9693404-7B88-491B-B3A0-8470FB14EBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9693404-7B88-491B-B3A0-8470FB14EBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9693404-7B88-491B-B3A0-8470FB14EBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B02A84-8F46-4DCB-AF9A-492B918928B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B02A84-8F46-4DCB-AF9A-492B918928B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B02A84-8F46-4DCB-AF9A-492B918928B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B02A84-8F46-4DCB-AF9A-492B918928B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD22C49D-C3F0-4377-8A12-17F618A0D858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD22C49D-C3F0-4377-8A12-17F618A0D858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD22C49D-C3F0-4377-8A12-17F618A0D858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD22C49D-C3F0-4377-8A12-17F618A0D858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9298AAE0-22AA-49FE-92AD-8DF88D7E901A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9298AAE0-22AA-49FE-92AD-8DF88D7E901A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9298AAE0-22AA-49FE-92AD-8DF88D7E901A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9298AAE0-22AA-49FE-92AD-8DF88D7E901A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAC598D-5599-4668-9ABC-B734878723E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAC598D-5599-4668-9ABC-B734878723E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAC598D-5599-4668-9ABC-B734878723E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAC598D-5599-4668-9ABC-B734878723E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC1BB36F-1B97-4D05-ABBA-0599A14B0235}
+	EndGlobalSection
+EndGlobal

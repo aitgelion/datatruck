@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DataTruck/bin/Debug/net5.0
+/DataTruck/obj
+/DataTruck.Core/bin
+/DataTruck.Core/obj
+/DataTruck.Data/bin
+/DataTruck.Data/obj
+/DataTruck.Data.Migrations.Oracle/bin
+/DataTruck.Data.Migrations.Oracle/obj
+/DataTruck.Data.Migrations.SqlServer/bin
+/DataTruck.Data.Migrations.SqlServer/obj
+/DataTruck.Migrations.SqlServer/bin
+/DataTruck.Migrations.SqlServer/obj
+/DataTruck.Test/bin
+/DataTruck.Test/obj

@@ -1,0 +1,1 @@
+INSERT INTO employees (fullname, salary) VALUES ('Benito Camelas', 65000.00);

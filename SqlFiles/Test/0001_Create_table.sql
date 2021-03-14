@@ -1,0 +1,5 @@
+CREATE TABLE employees
+(
+  id INT IDENTITY(1,1) PRIMARY KEY,
+  fullname VARCHAR(50) NOT NULL
+);
