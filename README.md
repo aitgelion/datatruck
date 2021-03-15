@@ -1,3 +1,4 @@
+![Logo](dataTruck.png)
 # DataTruck
 DataTruck lets you manage you Database by controlling the scripts based on naming rules and directory modes.
 
